@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EZdZgdJk7pnJGKt62g4UCALgRaZj/4O9JNNKSJgmgiLi0k883nJbFEv94xFUWCFX6NF1VxlRaaqX9bMwJSiw4w==",
+  "dgSpecHash": "nQUTwubPb3W2mROnilvN9p8HfnopjbvFBoo3ujLmTe6g71Fou3I/7wmSO5Pk+eYs64QGI2TdH9ql7UUqFiXV9w==",
   "success": true,
-  "projectFilePath": "/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.UI/UserManagement.UI.csproj",
+  "projectFilePath": "/Users/nikhilkalyan/usermanagement/UserManagement.UI/UserManagement.UI.csproj",
   "expectedPackageFiles": [
     "/Users/nikhilkalyan/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "/Users/nikhilkalyan/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/3.1.13/microsoft.aspnetcore.mvc.razor.extensions.3.1.13.nupkg.sha512",

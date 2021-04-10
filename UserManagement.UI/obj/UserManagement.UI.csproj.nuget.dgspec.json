@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.UI/UserManagement.UI.csproj": {}
+    "/Users/nikhilkalyan/usermanagement/UserManagement.UI/UserManagement.UI.csproj": {}
   },
   "projects": {
-    "/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.UI/UserManagement.UI.csproj": {
+    "/Users/nikhilkalyan/usermanagement/UserManagement.UI/UserManagement.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.UI/UserManagement.UI.csproj",
+        "projectUniqueName": "/Users/nikhilkalyan/usermanagement/UserManagement.UI/UserManagement.UI.csproj",
         "projectName": "UserManagement.UI",
-        "projectPath": "/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.UI/UserManagement.UI.csproj",
+        "projectPath": "/Users/nikhilkalyan/usermanagement/UserManagement.UI/UserManagement.UI.csproj",
         "packagesPath": "/Users/nikhilkalyan/.nuget/packages/",
-        "outputPath": "/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.UI/obj/",
+        "outputPath": "/Users/nikhilkalyan/usermanagement/UserManagement.UI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nikhilkalyan/.config/NuGet/NuGet.Config"
