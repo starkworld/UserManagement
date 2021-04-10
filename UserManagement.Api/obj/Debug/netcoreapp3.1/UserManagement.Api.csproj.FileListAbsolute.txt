@@ -1,0 +1,287 @@
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/appsettings.json
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.exe
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.deps.json
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.runtimeconfig.json
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.runtimeconfig.dev.json
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.pdb
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.Views.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/DocumentFormat.OpenXml.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Humanizer.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.IO.Packaging.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.AssemblyInfoInputs.cache
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.AssemblyInfo.cs
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.RazorTargetAssemblyInfo.cache
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.csproj.CopyComplete
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/staticwebassets/UserManagement.Api.StaticWebAssets.Manifest.cache
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/staticwebassets/UserManagement.Api.StaticWebAssets.xml
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.pdb
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.genruntimeconfig.cache
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.csproj.CoreCompileInputs.cache
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:/Projects/Rest Api Project/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.csprojAssemblyReference.cache
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.deps.json
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.runtimeconfig.json
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.runtimeconfig.dev.json
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.pdb
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/UserManagement.Api.Views.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/DocumentFormat.OpenXml.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.IO.Packaging.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.csprojAssemblyReference.cache
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.AssemblyInfoInputs.cache
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.AssemblyInfo.cs
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.csproj.CoreCompileInputs.cache
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/staticwebassets/UserManagement.Api.StaticWebAssets.Manifest.cache
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/staticwebassets/UserManagement.Api.StaticWebAssets.xml
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/scopedcss/bundle/UserManagement.Api.styles.css
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.RazorTargetAssemblyInfo.cache
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.csproj.CopyComplete
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.dll
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.pdb
+/Users/nikhilkalyan/HealthCatalyst/UserManagement/UserManagement.Api/obj/Debug/netcoreapp3.1/UserManagement.Api.genruntimeconfig.cache

@@ -1,0 +1,102 @@
+﻿
+@{
+    ViewData["Title"] = "Search";
+}
+<div class="row">
+    <div class="col-md-12">
+        <div class="card ">
+            <div class="card-body ">
+                <h4 class="card-title">Search User</h4>
+                <div class="row">
+                    <div class="col-md-12 mb-4">
+                        <div class="form-group row">
+                            <label class="col-md-2 col-form-label">Username</label>
+                            <div class="col-md-10">
+                                <input class="form-control" id="txtUsername" />
+                                <span class="text-danger hide" id="nogamemsg">No user found.</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-12 mt-4">
+                        <table id="tblUsers" class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Id</th>
+                                    <th>First Name</th>
+                                    <th>Last Name</th>
+                                    <th>Address</th>
+                                    <th>Age</th>
+                                    <th>Interests</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <link href="~/jquery-ui/jquery-ui.css" rel="stylesheet" />
+    <script src="~/jquery-ui/jquery-ui.min.js"></script>
+    <script type="text/javascript">
+        $("#txtUsername").autocomplete({
+            destroy: true,
+            minLength: 1,
+            source: function (request, response) {
+                var _uri = "https://localhost:44320/api/v1/Users/Search/" + request.term + "";
+                $.ajax({
+                    url: _uri,
+                    type: "GET",
+                    dataType: "json",
+                    data: {},
+                    success: function (data) {
+                        debugger
+                        response($.map(data, function (item) {
+                            return { label: (item.firstName + " " + item.lastName), value: item.id };
+                        }))
+                    }
+                })
+            },
+            select: function (event, ui) {
+                debugger
+                $("#txtUsername").val(ui.item.label);
+                var _geturi = "https://localhost:44320/api/v1/Users/Find/" + ui.item.value + "";
+                $.ajax({
+                    url: _geturi,
+                    type: "GET",
+                    dataType: "json",
+                    data: {},
+                    async: false,
+                    success: function (data) {
+                        if (data != null) {
+                            $("#txtUsername").val(data.firstName + " " + data.lastName);
+                            var str = "<tr><td>" + 1 + "</td><td>" + data.firstName + "</td><td>" + data.lastName + "</td><td>" + data.address + '</td><td>' + data.age + '</td ><td>' + data.interests + '</td ></tr>';
+                            $('#tblUsers').find("tbody").html(str);
+                        }
+
+                    }
+                });
+                $("#txtUsername").val(ui.item.label);
+                return false;
+            },
+            focus: function (event, ui) {
+                $("#txtUsername").val(ui.item.label);
+                return false;
+            },
+            search: function (event, ui) {
+                $("#txtUsername").addClass("loading");
+            },
+            response: function (event, ui) {
+                $("#txtUsername").removeClass("loading");
+                if (ui.content.length === 0) {
+                    $("#nogamemsg").removeClass("hide");
+                } else {
+                    $("#nogamemsg").addClass("hide");
+                }
+            },
+        });
+    </script>
+}
